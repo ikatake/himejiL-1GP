@@ -10,11 +10,12 @@
 ただし、その数が3で割り切れるならば数字の代わりにFizzと、5で割り切れるならBuzzと出力する。  
 3でも5でも割り切れる場合は、FizzBuzzの順に出力する。  
 出力はプログラム起動直後に行う(入力に対して出力を返すのではない)。  
-[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/fizzbuzz/out.txt)を参照されたい。
+具体的な出力方法に関しては[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/fizzbuzz/out.txt)を参照されたい。
 
 ###課題2. GPA(Grade Point Average)
 
-アメリカの学力評価であるGPAを標準入力から求める。各単位に対する評価(A,B,C,D,F)を点数に換算して平均した値である。  
+アメリカの学力評価であるGPAを標準入力から求める。  
+各単位に対する評価(A,B,C,D,F)を点数に換算して平均した値である。  
 各評価の点数への換算は以下のように行う。
     
 * A評価 -> 4点
@@ -32,7 +33,8 @@ r1r2r3......rN
 i文字目の文字riはA,B,C,D,Fのいずれかである。  
 入力として与えられた単位の評価を元にしたGPAを標準出力に1行で出力せよ。  
 なお、最後には改行を出力せよ。  
-[入力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/in.txt)を参照し、この入力例に対する[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/out.txt)を参照されたい。
+[入力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/in.txt)を参照し、
+この入力例に対する[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/out.txt)を参照されたい。
 
 ###課題3. 「tail -n 5」相当の動作をするプログラム
 
