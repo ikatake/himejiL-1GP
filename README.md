@@ -34,7 +34,7 @@ i文字目の文字riはA,B,C,D,Fのいずれかである。
 入力として与えられた単位の評価を元にしたGPAを標準出力に1行で出力せよ。  
 なお、最後には改行を出力せよ。  
 具体的な入出力の内容に関しては
-[入力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/in.txt)を参照し、
+[入力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/in.txt)および、
 この入力例に対する[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/out.txt)を参照されたい。
 
 ###課題3. 「tail -n 5」相当の動作をするプログラム
