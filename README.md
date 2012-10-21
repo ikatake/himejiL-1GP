@@ -2,9 +2,9 @@
 
 ##第0回 姫路L-1グランプリ
 
-課題
 
-1. __fizzbuzz__
+
+###課題1. fizzbuzz
 
 1から100までの数を出力する。  
 ただし、その数が3で割り切れるならば数字の代わりにFizzと、5で割り切れるならBuzzと出力する。  
@@ -12,7 +12,7 @@
 出力はプログラム起動直後に行う(入力に対して出力を返すのではない)。  
 [出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/fizzbuzz/out.txt)を参照されたい。
 
-2. __GPA__
+###課題2. GPA(Grade Point Average)
 
     アメリカの学力評価であるGPAを標準入力から求める。各単位に対する評価(A,B,C,D,F)を点数に換算して平均した値である。  
     各評価の点数への換算は以下のように行う。
@@ -34,7 +34,7 @@
     なお、最後には改行を出力せよ。  
     [入力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/in.txt)を参照し、この入力例に対する[出力例](https://github.com/ikatake/himejiL-1GP/blob/master/sample/gpa/out.txt)を参照されたい。
 
-3. __「tail -n 5」相当の動作をするプログラム__
+###課題3. 「tail -n 5」相当の動作をするプログラム
 
     後述するいずれかの入力から与えられた行のうちの最後の5行のみを表示する(それ以外は表示してはならない)。  
     なお、以下の2つの動作に成功しなけらばならない。~
